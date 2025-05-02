@@ -60,7 +60,7 @@
   }
 
   .simply-countdown > .simply-section .simply-amount {
-    font-size: 1.8rem; /* Increased number size specifically for mobile */
+    font-size: 3rem; /* Increased number size specifically for mobile */
   }
 }
 
